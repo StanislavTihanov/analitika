@@ -1128,16 +1128,6 @@ header{
   margin-right: 100px;
   position: relative;
 }
-.footer__menu::before{
-  position: absolute;
-  content: '';
-  width: 531px;
-  height: 531px;
-  border-radius: 50%;
-  top: 0;
-  left: -500px;
-  background: rgba(255, 255, 255, 0.2);
-}
 .menu__item{
   margin-bottom: 20px;
 }
